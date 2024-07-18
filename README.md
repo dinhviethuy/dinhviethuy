@@ -19,4 +19,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dinhviethuy&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dinhviethuy&label=Profile&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
