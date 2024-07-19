@@ -1,4 +1,6 @@
-## Hi there, I'm dinhviethuy
+<h1 align="center">Hi 👋, I'm dinhviethuy</h1>
+<img align="center" alt="Coding" width="400" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5pMWQwYmlpMzZybDM5b3ZkMGUxejRpYTFibjVpbTM5Z3ZzNXlnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.webp](https://i.pinimg.com/originals/1a/f6/89/1af689d42bdb7686df444f22925f9e89.gif)">
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dinhviethuyy?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ddinhviethuy?igsh=MXhseTBzN3p1ZTZtbw==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@dinhviet.huy?_t=8o890bKEvxZ&_r=1) 
 
@@ -11,9 +13,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=dinhviethuy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dinhviethuy&label=Profile&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
