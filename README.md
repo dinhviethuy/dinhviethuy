@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <b><em>dinhviethuy</em></b></h1>
 
-<img align="center" style="width: 100%; height: auto;" src="https://i.pinimg.com/originals/1a/f6/89/1af689d42bdb7686df444f22925f9e89.gif">
+<div align="center">
+<img align="center" style="width: 100%; height: auto;" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952j7wcuusn96c515nxgn9llixh9tubuop78jqdiiyg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+</div>
 
 # 💫About Me :
 
