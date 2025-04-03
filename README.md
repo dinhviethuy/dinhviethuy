@@ -49,3 +49,5 @@
 ![](https://komarev.com/ghpvc/?username=dinhviethuy&style=for-the-badge)
 
 </div>
+
+![snake gif](https://github.com/dinhviethuy/dinhviethuy/blob/output/github-snake-dark.svg)
