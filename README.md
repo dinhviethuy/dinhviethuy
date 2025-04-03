@@ -2,27 +2,50 @@
 
 <div align="center">
 <img align="center" style="width: 100%; height: auto;" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952j7wcuusn96c515nxgn9llixh9tubuop78jqdiiyg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 </div>
 
-# 💫About Me :
+## <div align="center">About Me 😚</div>
 
-- 🌱 My name is <em><b>Dinh Viet Huy</b></em>
+<div align="center">🌱 My name is <em><b>Dinh Viet Huy</b></em> </div>
 
-- 🏫 I'm studying at <b>Posts & Telecoms Institute of Technology</b>
+<div align="center">🏫 I'm studying at <b>Posts & Telecoms Institute of Technology</b> </div>
 
-- 📫 Contact me <b>**dinhviethuy055@gmail.com**</b>
+<div align="center"> 📫 Contact me <a href="mailto:dinhviethuy055@gmail.com"><b>dinhviethuy055@gmail.com</b></a></div>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dinhviethuyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dinhviethuyyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dinhviethuyy) 
+## <div align="center">Skills 📖 </div>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-# 📊GitHub Status :
-![](https://github-readme-stats.vercel.app/api?username=dinhviethuy&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dinhviethuy&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhviethuy&theme=dracula&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,vue,nestjs,npm&perline=5)]()
 
+</br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhviethuy&layout=compact)](https://github.com/dinhviethuy/github-readme-stats)
 
+</div>
 
+## <div align="center">Connect with me📱</div>
+
+<div align="center">
+<a href="https://www.facebook.com/dinhviethuyy" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/dinhviethuy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:dinhviethuy055@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://m.me/dinhviethuyy">
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
+</a>
+</div>
+<br/>
+</br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=dinhviethuy&style=for-the-badge)
+
+</div>
